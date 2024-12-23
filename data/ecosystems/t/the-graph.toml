@@ -1022,6 +1022,9 @@ url = "https://github.com/arnal7672/road-to-web3-06"
 url = "https://github.com/arnavbathla/lazymintingapp"
 
 [[repo]]
+url = "https://github.com/arrayappy/subgraph-example"
+
+[[repo]]
 url = "https://github.com/arrenv/azulo-trust-graph"
 
 [[repo]]
@@ -2397,6 +2400,7 @@ url = "https://github.com/dchan-network/dchan-subgraph"
 
 [[repo]]
 url = "https://github.com/De-store/graph-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/Deathslayer89/staking-dapp-protocol"
@@ -4293,6 +4297,9 @@ url = "https://github.com/graphprotocol/network-monitoring-subgraph"
 url = "https://github.com/graphprotocol/network-support"
 
 [[repo]]
+url = "https://github.com/graphprotocol/networks-registry"
+
+[[repo]]
 url = "https://github.com/graphprotocol/NuoNetwork-subgraph"
 
 [[repo]]
@@ -5703,6 +5710,7 @@ url = "https://github.com/koa2101/subgraph"
 
 [[repo]]
 url = "https://github.com/Koda-Finance/summitswap-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/kofman10/BLOCKGAMES-CHALLENGES"
@@ -7202,6 +7210,7 @@ url = "https://github.com/nmadd/meme-subgraph"
 
 [[repo]]
 url = "https://github.com/nmeln/scaffold-eth"
+missing = true
 
 [[repo]]
 url = "https://github.com/NoahMarconi/opengrants-thegraph"
@@ -8811,6 +8820,7 @@ url = "https://github.com/sharppanda/ethlance"
 
 [[repo]]
 url = "https://github.com/sharzone/hunterix"
+missing = true
 
 [[repo]]
 url = "https://github.com/ShayanJa/CryptoTwitter"

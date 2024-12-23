@@ -36,7 +36,6 @@ sub_ecosystems = [
   "CosmWasm",
   "Crescent Network",
   "Cronos",
-  "Crypto.com Chain",
   "Crypto.org",
   "Cudos",
   "Cyber",
@@ -51,6 +50,7 @@ sub_ecosystems = [
   "Dymension",
   "E-Money",
   "Elesto",
+  "Elys Network",
   "Emeris",
   "EmpowerChain",
   "Enigma",
@@ -87,7 +87,6 @@ sub_ecosystems = [
   "Konstellation",
   "Kuchain Network",
   "Kujira",
-  "KYVE",
   "Landslide Network",
   "Lazy Ledger",
   "lcnem",
@@ -559,6 +558,7 @@ url = "https://github.com/abhi141/coswams_crud"
 
 [[repo]]
 url = "https://github.com/abhichat85/blog"
+missing = true
 
 [[repo]]
 url = "https://github.com/abhichat85/hello"
@@ -1125,6 +1125,7 @@ missing = true
 
 [[repo]]
 url = "https://github.com/alfar0x/cosmos-inscriptions"
+missing = true
 
 [[repo]]
 url = "https://github.com/Alfie/blakyub-research"
@@ -1255,6 +1256,12 @@ url = "https://github.com/allinbits/announcements"
 url = "https://github.com/allinbits/arbitrage-docs"
 
 [[repo]]
+url = "https://github.com/allinbits/atomone-governance-dapp"
+
+[[repo]]
+url = "https://github.com/allinbits/atomone-staking-portal"
+
+[[repo]]
 url = "https://github.com/allinbits/bandchain"
 
 [[repo]]
@@ -1349,6 +1356,9 @@ url = "https://github.com/allinbits/runsim-operator"
 
 [[repo]]
 url = "https://github.com/allinbits/sdk-tutorials"
+
+[[repo]]
+url = "https://github.com/allinbits/security"
 
 [[repo]]
 url = "https://github.com/allinbits/testnets"
@@ -3331,6 +3341,9 @@ url = "https://github.com/celestiaorg/blobstream-ops"
 url = "https://github.com/celestiaorg/blobstreamx-monitor"
 
 [[repo]]
+url = "https://github.com/celestiaorg/boxo"
+
+[[repo]]
 url = "https://github.com/celestiaorg/cdk-validium-contracts"
 
 [[repo]]
@@ -3376,6 +3389,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/celestiaorg/celestia-ts"
+
+[[repo]]
+url = "https://github.com/celestiaorg/celestia-zkevm-ibc-demo"
 
 [[repo]]
 url = "https://github.com/celestiaorg/celestia.org"
@@ -3578,6 +3594,9 @@ url = "https://github.com/celestiaorg/knuu-example"
 url = "https://github.com/celestiaorg/knuu-executor"
 
 [[repo]]
+url = "https://github.com/celestiaorg/kona"
+
+[[repo]]
 url = "https://github.com/celestiaorg/kv-snap-bench"
 
 [[repo]]
@@ -3636,6 +3655,9 @@ url = "https://github.com/celestiaorg/nodelogger"
 
 [[repo]]
 url = "https://github.com/celestiaorg/op-plasma-celestia"
+
+[[repo]]
+url = "https://github.com/celestiaorg/op-succinct"
 
 [[repo]]
 url = "https://github.com/celestiaorg/optimism"
@@ -4044,6 +4066,9 @@ url = "https://github.com/chenxifun/bsnhub-service-relayer"
 
 [[repo]]
 url = "https://github.com/cheqd/.github"
+
+[[repo]]
+url = "https://github.com/cheqd/acapy-plugins"
 
 [[repo]]
 url = "https://github.com/cheqd/airdrop-distribution"
@@ -5595,6 +5620,9 @@ url = "https://github.com/cosmostation/atomone-validator-community"
 url = "https://github.com/cosmostation/atomone-validator-directory"
 
 [[repo]]
+url = "https://github.com/cosmostation/awesome-cosmos"
+
+[[repo]]
 url = "https://github.com/cosmostation/babylon-networks"
 
 [[repo]]
@@ -5678,6 +5706,9 @@ url = "https://github.com/cosmostation/cosmostation_token_resource"
 
 [[repo]]
 url = "https://github.com/cosmostation/CosmWasmJS"
+
+[[repo]]
+url = "https://github.com/cosmostation/cvms"
 
 [[repo]]
 url = "https://github.com/cosmostation/defistation-web"
@@ -5937,6 +5968,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/Cosmwasm-Labs/terraswap-contracts"
+
+[[repo]]
+url = "https://github.com/CosmWasm/.github"
 
 [[repo]]
 url = "https://github.com/CosmWasm/academy-deploy"
@@ -6474,6 +6508,7 @@ url = "https://github.com/cwsoftware123/cwd"
 
 [[repo]]
 url = "https://github.com/cyberbono3/starport-ibc-module-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/cybercongress/cyb"
@@ -7072,6 +7107,9 @@ url = "https://github.com/datachainlab/tendermint-zk-ibc"
 [[repo]]
 url = "https://github.com/datachainlab/toki-bridge-web-k8s-manifests"
 missing = true
+
+[[repo]]
+url = "https://github.com/datachainlab/toki-brigdge-evm-contracts-sdk"
 
 [[repo]]
 url = "https://github.com/datachainlab/toki-k8s-toki-web"
@@ -9840,6 +9878,7 @@ url = "https://github.com/gwn/ixo-cosmjs-launchpad"
 
 [[repo]]
 url = "https://github.com/gyuguen/cosmos-tutorials"
+missing = true
 
 [[repo]]
 url = "https://github.com/h0n9/terra-contract-poc"
@@ -10495,6 +10534,9 @@ url = "https://github.com/hyperledger-labs/yui-fabric-ibc"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/yui-ibc-solidity"
+
+[[repo]]
+url = "https://github.com/hypersign-protocol/hid-node"
 
 [[repo]]
 url = "https://github.com/hypersign-protocol/zk-kyc-using-ibc"
@@ -11298,9 +11340,11 @@ url = "https://github.com/jb1011/graph-node"
 
 [[repo]]
 url = "https://github.com/jbgoldman1104/cl-cosmos-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/jbgoldman1104/nexqloud-cosmos-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/jboetticher/simpleclcosmos"
@@ -13255,6 +13299,7 @@ url = "https://github.com/markaccyofficial/assets"
 
 [[repo]]
 url = "https://github.com/marketxyz/subgraphs"
+missing = true
 
 [[repo]]
 url = "https://github.com/MarkGriffiths/assetMantle"
@@ -16436,6 +16481,7 @@ url = "https://github.com/pyth-network/pyth-sdk-rs"
 
 [[repo]]
 url = "https://github.com/pythexcel/ethermon"
+missing = true
 
 [[repo]]
 url = "https://github.com/Pythonberg1997/greenfield"
@@ -19757,6 +19803,7 @@ url = "https://github.com/theSamPadilla/blockchain-infra-decentralization-metric
 
 [[repo]]
 url = "https://github.com/theshoaibshafique/smartnodes-dashboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheSingularNetwork/singulargrid-hub"
@@ -21033,9 +21080,6 @@ url = "https://github.com/wormhole-foundation/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/wormhole-foundation/wormhole-dashboard"
-
-[[repo]]
-url = "https://github.com/wormhole-foundation/wormhole-explorer"
 
 [[repo]]
 url = "https://github.com/wormhole-foundation/wormhole-icco"

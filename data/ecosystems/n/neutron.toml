@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Neutron"
 
-sub_ecosystems = ["Astroport", "Mars Protocol"]
+sub_ecosystems = ["Astroport", "Eclipse Fi", "Mars Protocol"]
 
 github_organizations = ["https://github.com/neutron-org"]
 
@@ -32,6 +32,9 @@ url = "https://github.com/neutron-org/chain-registry-package"
 
 [[repo]]
 url = "https://github.com/neutron-org/chain-ts-client"
+
+[[repo]]
+url = "https://github.com/neutron-org/cometbft"
 
 [[repo]]
 url = "https://github.com/neutron-org/contracts2ts"
